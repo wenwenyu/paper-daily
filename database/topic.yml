@@ -1,3 +1,10 @@
+"OCR":
+  "Scene Text Detection": '"Scene Text Detection"'
+  "Scene Text Recognition": '"Scene Text Recognition"'
+  "Text Spotting": '"End to end Text Spotting"'
+  "Key Information Extraction": '"Key Information Extraction"'
+  "Document Understanding": '"Document Understanding"'
+
 "Computer Vision":
   "Image Classification": '"Image Classification"'
   "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
@@ -32,4 +39,4 @@
   "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
 
 "Camera":
-  "Camera": '"Camera"OR"multi camera"OR"video"'
+  "Camera": '"Camera"OR"multi camera"OR"video
